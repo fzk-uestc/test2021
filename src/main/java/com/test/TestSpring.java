@@ -22,5 +22,7 @@ public class TestSpring {
         //3.调用方法
         accountService.findAll();
         accountService.saveAccount(new Account());
+
+        System.out.println("测试git");
     }
 }
