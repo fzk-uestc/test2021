@@ -25,5 +25,8 @@ public class TestSpring {
 
         System.out.println("测试git");
         int i=0;
+
+
+        System.out.println(i);
     }
 }
